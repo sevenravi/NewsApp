@@ -1,4 +1,4 @@
-This is a News App develeloped with Create React App.
+#This is a News App develeloped with Create React App.
 
 This project has news base on different categories(General,International,Sports,Business......).
 
