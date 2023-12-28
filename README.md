@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+#This is a News App develeloped with Create React App.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has news base on different categories(General,International,Sports,Business......).
 
 ## Available Scripts
 
